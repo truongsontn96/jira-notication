@@ -1,0 +1,37 @@
+{
+    "claudeCode.environmentVariables": [
+        {
+            "name": "ANTHROPIC_BASE_URL",
+            "value": "https://llmgate.app"
+        },
+        {
+            "name": "ANTHROPIC_AUTH_TOKEN",
+            "value": "sk-llmgate-5T5AsxFDrVvBKvBkK4vhNFipQP62Ru7yoipxOWIEEZcLT727"
+        },
+        // {
+        //     "name": "ANTHROPIC_DEFAULT_OPUS_MODEL",
+        //     "value": "gpt-6-astra"
+        // },
+        {
+            "name": "ANTHROPIC_DEFAULT_OPUS_MODEL",
+            "value": "claude-opus-5-5"
+        },
+        {
+            "name": "ANTHROPIC_DEFAULT_SONNET_MODEL",
+            "value": "claude-sonnet-5"
+        },
+        // {
+        //     "name": "ANTHROPIC_DEFAULT_SONNET_MODEL",
+        //     "value": "gpt-6.1-sol"
+        // },
+        {
+            "name": "ANTHROPIC_DEFAULT_HAIKU_MODEL",
+            "value": "gpt-6-luna"
+        },
+        {
+            "name": "ANTHROPIC_DEFAULT_MIMO_FLASH_MODEL",
+            "value": "mimo-v2.6-flash"
+        }
+    ],  
+    "claudeCode.disableLoginPrompt": true,
+}
